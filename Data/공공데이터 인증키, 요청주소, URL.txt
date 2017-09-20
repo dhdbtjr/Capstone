@@ -1,0 +1,40 @@
+﻿#인증키
+47CmRc1TDaFLWLey%2Fb7AXqa5Hn%2B8d2EN2xEo4WJBGDINW2aLN3KshN%2BlPePjQ1B%2FwgQRsBVu%2BRG8nK4A0Dbmmw%3D%3D
+
+
+#식품 영양성분 서비스
+요청주소
+http://apis.data.go.kr/1470000/FoodNtrIrdntInfoService/getFoodNtrItdntList 
+서비스URL  
+http://apis.data.go.kr/1470000/FoodNtrIrdntInfoService
+
+
+
+#건강기능식품 대상별 정보(DB) 서비스
+요청주소  
+http://apis.data.go.kr/1470000/HtfsTrgetInfoService/getHtfsInfoList 
+서비스URL  
+http://apis.data.go.kr/1470000/HtfsTrgetInfoService
+
+
+
+#건강기능식품정보 서비스
+요청주소  
+http://apis.data.go.kr/1470000/HtfsInfoService/getHtfsItem 
+서비스URL  
+http://apis.data.go.kr/1470000/HtfsInfoService
+
+
+#식품원재료 정보(DB) 서비스
+요청주소
+http://apis.data.go.kr/1470000/FoodRwmatrInfoService/getFoodRwmatrList 
+서비스URL  
+http://apis.data.go.kr/1470000/FoodRwmatrInfoService
+
+
+#식품 이력 정보 서비스
+요청주소
+http://apis.data.go.kr/1470000/FoodHistInfoService/getPrductRawmtrlList 
+서비스URL 
+http://apis.data.go.kr/1470000/FoodHistInfoService
+
