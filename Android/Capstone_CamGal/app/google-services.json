@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "947348806047",
+    "firebase_url": "https://capstonecamgal.firebaseio.com",
+    "project_id": "capstonecamgal",
+    "storage_bucket": "capstonecamgal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947348806047:android:ec90b6c6da11f53d",
+        "android_client_info": {
+          "package_name": "com.example.alban.capstone_camgal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947348806047-bbltvbo6rn0c4btt3umfctak8hh0id83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alban.capstone_camgal",
+            "certificate_hash": "d79d4729661eb7b8b72ce43b6b7b418ef0d546b5"
+          }
+        },
+        {
+          "client_id": "947348806047-j0uslviqtfp70o6bjdmk4420vbp871ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvr9waj-CcCtIyZjkQfHt-5hCpXpgXmgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947348806047-j0uslviqtfp70o6bjdmk4420vbp871ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
