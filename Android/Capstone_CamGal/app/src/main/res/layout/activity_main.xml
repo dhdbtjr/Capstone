@@ -7,6 +7,11 @@
     tools:context="com.example.alban.capstone_camgal.MainActivity">
 
     <Button
+        android:id="@+id/btnLogIn"
+        android:text="Log In"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
         android:id="@+id/btn_find"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

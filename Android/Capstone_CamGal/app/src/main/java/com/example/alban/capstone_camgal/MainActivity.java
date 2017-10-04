@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     String upLoadServerUri = "";
     private Button btnTakePicture;
     private ImageView ivPicture;
+    private Button btnLogIn;
     private String imagePath;
 
     @Override
@@ -41,6 +42,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         btnTakePicture = (Button) findViewById(R.id.btnTakePicture);
         ivPicture = (ImageView) findViewById(R.id.ivPicture);
+        btnLogIn = (Button) findViewById(R.id.btnLogIn);
+
+        btnLogIn.setOnClickListener(new View.OnClickListener(){
+           @Override
+            public void onClick(View v){
+               Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+               startActivity(intent);
+           }
+        });
 
 
         btnTakePicture.setOnClickListener(new View.OnClickListener() {
